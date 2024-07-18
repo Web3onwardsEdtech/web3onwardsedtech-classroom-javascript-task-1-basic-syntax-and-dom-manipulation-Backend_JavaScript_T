@@ -1,0 +1,11 @@
+{
+  "name": "javascript-basics-task",
+  "version": "1.0.0",
+  "description": "A simple JavaScript task for learning basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
